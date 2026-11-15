@@ -1,7 +1,7 @@
 
-# SUMARRY of FEATURES
+# SUMARRY OF FEATURES
 | ID | Requirement | Priority |
-|---|---|
+|---|---|---|
 | FR-01 | Users can enter RA and Dec | Critical |
 | FR-02 |	Users can search SPHEREx observations | Critical |
 | FR-03 | Users can retrieve actual astronomical images | Critical |
