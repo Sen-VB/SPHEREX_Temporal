@@ -1,16 +1,22 @@
-ID	                Requirement	                                Priority
-FR-01	Users can enter RA and Dec	                                Critical
-FR-02	Users can search SPHEREx observations	                        Critical
-FR-03	Users can retrieve actual astronomical images	                Critical
-FR-04	Users can view observations chronologically	                Critical
-FR-05	Users can animate observations	                                Critical
-FR-06	Users can compare two images	                                High
-FR-07	Users can generate difference images	                        High
-FR-08	Users can view data-quality information	                        High
-FR-09	Users can inspect spectral channels	                        Medium
-FR-10	Users can identify detected sources	                        Medium
-FR-11	Users can overlay external catalogs	                        Medium
-FR-12	Users can submit candidate observations	                        Future
+
+# SUMARRY of FEATURES
+| ID | Requirement | Priority |
+|---|---|
+| FR-01 | Users can enter RA and Dec | Critical |
+| FR-02 |	Users can search SPHEREx observations | Critical |
+| FR-03 | Users can retrieve actual astronomical images | Critical |
+| FR-04 | Users can view observations chronologically | Critical |
+| FR-05 |	Users can animate observations | Critical |
+| FR-06 | Users can compare two images | High |
+| FR-07 | Users can generate difference images | High |
+| FR-08 | Users can view data-quality information | High |
+| FR-09 | Users can inspect spectral channels | Medium |
+| FR-10 | Users can identify detected sources | Medium |
+| FR-11 | Users can overlay external catalogs | Medium |
+| FR-12 | Users can submit candidate observations | Future |
+
+
+---
 
 # SPHEREx Temporal Explorer
 ## Software Requirements Specification (SRS)
